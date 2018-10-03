@@ -1,3 +1,6 @@
+# Exclude main build binary
+go-http-service
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
